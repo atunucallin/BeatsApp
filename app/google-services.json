@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "550798495510",
+    "firebase_url": "https://beats-app-android-learning.firebaseio.com",
+    "project_id": "beats-app-android-learning",
+    "storage_bucket": "beats-app-android-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550798495510:android:92916cfeb6376196",
+        "android_client_info": {
+          "package_name": "com.example.dj.beatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550798495510-3r26q5j2dqqq5ppc1h7br3nldk662g86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dj.beatsapp",
+            "certificate_hash": "28d8e96ff5960211b00cb491e79626a94f98fc2f"
+          }
+        },
+        {
+          "client_id": "550798495510-m6b4u50b2r57cpcm8hi521bku5arfo2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlMrjAXCFpvSplH_8bX_LAvUfRdZkADY0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550798495510-m6b4u50b2r57cpcm8hi521bku5arfo2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
